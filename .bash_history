@@ -19,3 +19,10 @@ cat gitjuly
 git status
 mv gitjuly readme.md
 ls
+git add .
+git status
+git commit -m "First commit"
+git status
+cat > main.c
+git status
+git commit -m "First commit"
